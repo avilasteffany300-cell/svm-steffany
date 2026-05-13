@@ -7,7 +7,7 @@ from groq import Groq
 
 
 st.set_page_config(page_title="Riesgo actuarial", layout="centered")
-st.title("Predicción de riesgo actuarial_Steffany Ávila")
+st.title("Predicción de riesgo actuarial_Steffany Ávila_PCAF-03")
 
 
 @st.cache_resource
